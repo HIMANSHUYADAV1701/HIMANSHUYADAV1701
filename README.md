@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hi, I'm Himanshu Yadav 👋
 
-<!--
-**HIMANSHUYADAV1701/HIMANSHUYADAV1701** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Data Engineer
 
-Here are some ideas to get you started:
+Data Engineer specializing in scalable ETL pipelines and cloud-native data platforms. Skilled in PySpark, Databricks, AWS, SQL, Oracle, MongoDB, and Airflow, with expertise in high-volume data processing, CDC pipelines, distributed systems, and enterprise-scale data engineering solutions.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Tech Stack
+- PySpark
+- Databricks
+- AWS
+- SQL
+- Oracle
+- MongoDB
+- Python
+- Apache Airflow
+
+### Currently Learning
+- Advanced Data Engineering
+- Distributed Systems
+- Machine Learning & Data Science
