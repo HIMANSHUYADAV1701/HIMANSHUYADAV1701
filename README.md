@@ -19,7 +19,8 @@ Data Engineer specializing in scalable ETL pipelines and cloud-native data platf
 
 - Advanced Data Engineering
 - Distributed Systems
-- Machine Learning & Data Science
+- Delta Lake & Lakehouse Architecture
+- Machine Learning Fundamentals
 
 ## Connect With Me
 
